@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    color: #008080; /* Turquoise */
+}
+
+.info p {
+    margin: 5px 0;
+}
+
+.section {
+    margin-bottom: 30px;
+}
+
+.section h2 {
+    color: #008080; /* Turquoise */
+    margin-bottom: 10px;
+}
+
+.job {
+    margin-bottom: 20px;
+}
+
+.job h3 {
+    color: #008080; /* Turquoise */
+    margin-bottom: 10px;
+}
+
+.job p {
+    margin-bottom: 10px;
+}
+
+.job ul {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+.job ul li {
+    margin-bottom: 5px;
+}
+
